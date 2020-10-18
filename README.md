@@ -10,3 +10,4 @@
 6. Linear algebra(3) inverse (LSM based curve fitting)  
 7. Differentail equations (RLC circuit, wave equation, heat equation)  
 8. Complex variables(DFT vs FFT)  
+9. etc(computation time, eigen tutorial...)
