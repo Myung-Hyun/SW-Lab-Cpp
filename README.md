@@ -1,5 +1,7 @@
 # SW-Lab-Cpp
 
+(참고) 경희대학교 서덕영 교수님 '소프트웨어 랩(C++)' 강의를 바탕으로 작성하였습니다.  
+
 1. Integration/Differentiation  
 2. Optimization(gradient descend)  
 3. Linear algebra(1) multiplication(orthogonality)  
