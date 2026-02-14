@@ -1,3 +1,6 @@
+⚠️ This repository is archived practice code.
+
+
 # SW-Lab-Cpp
 
 (참고) 경희대학교 서덕영 교수님 '소프트웨어 랩(C++)' 강의를 바탕으로 작성하였습니다.  
